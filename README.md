@@ -42,4 +42,5 @@ Utilizando Archivos Binarios<br>
     <li>Guardar datos</li>
     <li>Cargar datos</li>
   </ol>
+Se puede agregar un maximo de 50 Equipos
 </p>
