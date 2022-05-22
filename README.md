@@ -26,7 +26,7 @@ Presenta el uso de:
   </ul>
 </p>
 
-<b>Objetivo:</b> Hacer programa con todo lo que he aprendido, que haga validaciones, ordena los administrativos por orden alfabetico de manera automatica, y limpia residuos para evitar duplicar valores a la hora de reasignar equipos. todavia hay mejoras que se pueden hacer, pero cumple con lo solicitado.
+<b>Objetivo:</b> Hacer programa con todo lo que he aprendido, que haga validaciones, ordena los administrativos por orden alfabetico de manera automatica, limpia residuos para evitar duplicar valores a la hora de reasignar equipos, y limpia la pantalla para dar la ilusion de estar cambiando de pentaña con cada opcion del menú todavia hay mejoras que se pueden hacer, pero cumple con lo solicitado.
 
 <p><b>Breve descripcion:</b><br>
 Utilizando Archivos Binarios<br>
