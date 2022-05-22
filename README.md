@@ -21,7 +21,8 @@ Presenta el uso de:
     <li>Arreglos</li>
     <li>Funciones y Prototipos</li>
     <li>struct</li>
-    <li>FILE, fopen, fclose</li>
+    <li>strcpy, strcmp</li>	
+    <li>FILE, fopen, fclose, fread, fwrite</li>
   </ul>
 </p>
 
